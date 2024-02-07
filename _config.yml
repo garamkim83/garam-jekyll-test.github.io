@@ -12,13 +12,12 @@ language: 'en-US'
 name: 'K-ROAD'
 description: "KOREATECH 자율주행차연구회"
 
-short_url: 'garamkim83.github.io/'
+short_url: 'garamkim83.github.io/test-site-2/'
 # google_analytics: UA-69281367-1   # 구글 애널리틱스
 # disqus: garamkim83                # 댓글 기능, disqus 계정 만들어야 함, 유료
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-# baseurl: /garamkim83.github.io/
-baseurl: /
+baseurl: /test-site-2/
 
 # Permalinks
 permalink: /:title
@@ -52,11 +51,12 @@ lsi: false
 username: garamkim83
 repo: test-site-2
 branch: master
-relative_source: ../test-site-2/
-destination: ../jasper-pages/
+relative_source: ../
+destination: ./_site/
 production_url:  https://garamkim83.github.io/
-source_url:  https://github.com/garamkim83/
-blog_logo: ./assets/images/kroad_white.png
+source_url:  https://github.com/garamkim83/garamkim83.github.io/
+
+blog_logo: /assets/images/kroad_white.png
 logo: /assets/images/kroad_white.png
 
 # Social media links
