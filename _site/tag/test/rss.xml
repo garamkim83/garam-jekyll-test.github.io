@@ -3,20 +3,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>garamkim83.github.io/test-site-2/</title>
+      <title>garamkim83.github.io/</title>
    
    <link>http://localhost:4000</link>
    <description>KOREATECH 자율주행차연구회</description>
-   <language>en-US</language>
+   <language>ko</language>
    <managingEditor> </managingEditor>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>test post</title>
-	  <link>/test-site-2//test-post</link>
+	  <link>/test-post</link>
 	  <author></author>
 	  <pubDate>2024-02-05T10:18:00+09:00</pubDate>
-	  <guid>/test-site-2//test-post</guid>
+	  <guid>/test-post</guid>
 	  <description><![CDATA[
 	     <h1 id="2024-02-05">2024-02-05</h1>
 <h2 id="테스트를-합시다">테스트를 합시다</h2>
@@ -46,10 +46,10 @@
 
 	<item>
 	  <title>A Full and Comprehensive Style Test</title>
-	  <link>/test-site-2//a-full-and-comprehensive-style-test</link>
+	  <link>/a-full-and-comprehensive-style-test</link>
 	  <author></author>
 	  <pubDate>2014-09-27T19:18:00+09:00</pubDate>
-	  <guid>/test-site-2//a-full-and-comprehensive-style-test</guid>
+	  <guid>/a-full-and-comprehensive-style-test</guid>
 	  <description><![CDATA[
 	     <p>This is just an <em>ipsis verbis</em> copy of the first example running on the <a href="http://demo.ghost.io">Ghost
     Demo</a>. This shows how you can use html styling to achieve your hopes.</p>
