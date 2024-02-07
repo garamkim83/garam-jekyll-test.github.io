@@ -17,7 +17,7 @@ short_url: 'garamkim83.github.io/test-site-2/'
 # disqus: garamkim83                # 댓글 기능, disqus 계정 만들어야 함, 유료
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /test-site-2/
+baseurl: /garamkim83.github.io/
 
 # Permalinks
 permalink: /:title
@@ -49,15 +49,15 @@ plugins: [jekyll-paginate]
 safe: false
 lsi: false
 username: garamkim83
-repo: test-site-2
+repo: garamkim83.github.io
 branch: master
 relative_source: ../
 destination: ./_site/
 production_url:  https://garamkim83.github.io/
 source_url:  https://github.com/garamkim83/garamkim83.github.io/
 
-blog_logo: /assets/images/kroad_white.png
-logo: /assets/images/kroad_white.png
+blog_logo: ./assets/images/kroad_white.png
+logo: ./assets/images/kroad_white.png
 
 # Social media links
 github_url: https://github.com/garamkim83/garamkim83.github.io/
