@@ -1,47 +1,74 @@
-<header>
+## 블로그 테스트 페이지
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+[![Build Status](https://github.com/jekyllt/jasper/actions/workflows/jekyll_build.yml/badge.svg)](https://github.com/jekyllt/jasper/actions/workflows/jekyll_build.yml)
+[![Ruby](https://img.shields.io/badge/ruby-2.6.3-blue.svg?style=flat)](http://travis-ci.org/jekyllt/jasper)
+[![Jekyll](https://img.shields.io/badge/jekyll-3.9.0-blue.svg?style=flat)](http://travis-ci.org/jekyllt/jasper)
 
-# GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
 
-</header>
+## Link
 
-<!--
-  <<< Author notes: Step 5 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
--->
+[test page](https://garamkim83.github.io/test-site-2/)
 
-## Step 5: Merge your pull request
+## 공지
 
-_Nice work, friend :heart:! People will be reading your blog in no time!_
+1. 사용법을 읽고 글을 작성할 것
+2. 임의로 main branch에 merge 하지 말 것
+3. 다른 사람의 글을 허락 없이 수정하지 말 것 (기록 남음)
+4. 
 
-You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
+## Screenshots
 
-### :keyboard: Activity: Merge your changes
+**Home page**
+![home page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen1.png)
 
-1. Merge your changes from `my-pages` into `main`. If you created the pull request in step 2, just open that PR and click on **Merge pull request**. If you did not create the pull request earlier, you can do it now by following the instructions in [step 2](/.github/steps/2-configure-your-site.md).
-1. (optional) Delete the branch `my-pages`.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+<!-- **Post page**
+![post page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen2.png)
 
-<footer>
+**Author page**
+![author page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen3.png)
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+**Related posts page**
+![tag page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen4.png)
 
----
+**Tags page with opened sidebar**
+![sidebar page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen5.png)
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+**404 page**
+![related page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen6.png) -->
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## How to use it
+1. 마크다운 문법을 사용한다.
+2. HTML 문법을 사용한다.
 
-</footer>
+자세한 내용은 나중에 정리하겠음
+
+### Author pages
+
+In order to properly generate author pages you need to rename the field *categories* in the front matter of every post to match that of your each author *username* as defined in the *[\_config.yml](_config.yml)* file.
+With the latest update, multiple author blogs are now supported out of the box.
+
+## Issues and contributing
+
+This install builds well with Ruby v2.6.3 and Jekyll v3.9.0. If you run into any problems please log them on the [issue tracker](https://github.com/garamkim83/test-site-2/issues).
+
+Feel free pull-request your patches and fixes.
+
+## Thanks
+
+
+Many thanks to the Ghost team for all the design work that allows to make this clone possible. Also many thanks to all contributors, that help keeping the project alive and updated :smile:
+
+
+## Copyright & License
+
+Same licence as the one provided by Ghost's team. See Casper's theme [license](GHOST.txt).
+
+Copyright (C) 2015-2021 - Released under the MIT License.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
