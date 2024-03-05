@@ -13,10 +13,10 @@
    
 	<item>
 	  <title>test post</title>
-	  <link>/test-site-2//test-post</link>
+	  <link>/garamkim83.github.io//test-post</link>
 	  <author></author>
 	  <pubDate>2024-02-05T10:18:00+09:00</pubDate>
-	  <guid>/test-site-2//test-post</guid>
+	  <guid>/garamkim83.github.io//test-post</guid>
 	  <description><![CDATA[
 	     <h1 id="2024-02-05">2024-02-05</h1>
 <h2 id="테스트를-합시다">테스트를 합시다</h2>
@@ -46,10 +46,10 @@
 
 	<item>
 	  <title>A Full and Comprehensive Style Test</title>
-	  <link>/test-site-2//a-full-and-comprehensive-style-test</link>
+	  <link>/garamkim83.github.io//a-full-and-comprehensive-style-test</link>
 	  <author></author>
 	  <pubDate>2014-09-27T19:18:00+09:00</pubDate>
-	  <guid>/test-site-2//a-full-and-comprehensive-style-test</guid>
+	  <guid>/garamkim83.github.io//a-full-and-comprehensive-style-test</guid>
 	  <description><![CDATA[
 	     <p>This is just an <em>ipsis verbis</em> copy of the first example running on the <a href="http://demo.ghost.io">Ghost
     Demo</a>. This shows how you can use html styling to achieve your hopes.</p>
