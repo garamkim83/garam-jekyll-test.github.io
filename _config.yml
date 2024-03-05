@@ -11,7 +11,7 @@ language: 'kr'
 # Website info
 name: 'K-ROAD'
 description: "KOREATECH 자율주행차연구회"
-url: 'https://garamkim83.github.io/'
+# url: 'https://garamkim83.github.io/'
 
 short_url: 'garamkim83.github.io/'
 # google_analytics: UA-69281367-1   # 구글 애널리틱스
