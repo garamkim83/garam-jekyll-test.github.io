@@ -62,10 +62,6 @@ This install builds well with Ruby v2.6.3 and Jekyll v3.9.0. If you run into any
 
 Feel free pull-request your patches and fixes.
 
-## Thanks
-
-
-Many thanks to the Ghost team for all the design work that allows to make this clone possible. Also many thanks to all contributors, that help keeping the project alive and updated :smile:
 
 
 ## Copyright & License
