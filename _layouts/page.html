@@ -1,6 +1,9 @@
 ---
 layout: default
 class: 'page-template'
+<!-- cover: 'https://garamkim83.github.io/test-site-2/assets/images/engineer_bg.jpg' -->
+cover: '/assets/images/engineer_bg.jpg'
+<!-- bg-img: 'https://garamkim83.github.io/test-site-2/assets/images/engineer_bg.jpg' -->
 ---
 <!-- < default -->
 
@@ -11,6 +14,7 @@ class: 'page-template'
 <!-- #post -->
 
 <header class="main-header post-head {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }}){% else %}no-cover{% endif %}">
+    <!-- <header class="main-header post-head {% if page.cover %}" style="background-image: url({{ page.cover }}){% else %}no-cover{% endif %}"> -->
     <nav class="main-nav {% if page.cover %}overlay{% endif %} clearfix">
         {% if page.logo %}<a class="blog-logo" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}{{ site.logo }}" alt="Blog Logo" /></a>{% endif %}
         {% if page.navigation %}
