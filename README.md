@@ -38,8 +38,16 @@
 ![related page](https://raw.githubusercontent.com/jekyllt/jasper/master/assets/images/jasper_screen6.png) -->
 
 ## How to use it
-1. 마크다운 문법을 사용한다.
-2. HTML 문법을 사용한다.
+1. 마크다운/HTML을 사용한다.
+2. ***연구회의 목적과 일치하는 내용을 작성한다.***
+   1. 자율주행 관련 연구 내용
+   2. 자율주행 관련 논문 스터디
+   3. 연구회 내부에서 쓸 수 있는 환경 설정 (Docker, git, Ubuntu setting)
+   4. 기타 자율주행 기술과 관련 없는 알고리즘 공부, 코딩테스트 준비 등의 개인 공부 -> **작성 불가**
+3. 글 작성 후 운영진에게 확인을 받는다.
+4. build 하고 author & tags 폴더를 수정한다. (기술 담당 운영진)
+5. 기술 담당 운영진의 허가 없이 임의로 merge하지 않는다.
+6. 
 
 자세한 내용은 나중에 정리하겠음
 
