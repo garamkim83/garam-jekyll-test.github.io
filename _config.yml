@@ -4,15 +4,15 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-language: 'en-US'
-# language: 'ko'
+# language: 'en-US'
+language: 'ko'
 # timezone: Asia/Seoul
 
 # Website info
 name: 'K-ROAD'
 description: "KOREATECH 자율주행차연구회"
 
-short_url: 'garamkim83.github.io/test-site-2/'
+short_url: 'garamkim83.github.io/'
 # google_analytics: UA-69281367-1   # 구글 애널리틱스
 # disqus: garamkim83                # 댓글 기능, disqus 계정 만들어야 함, 유료
 
@@ -50,7 +50,7 @@ plugins: [jekyll-paginate]
 safe: false
 lsi: false
 username: garamkim83
-repo: test-site-2
+repo: garamkim83.github.io
 branch: master
 relative_source: https://garamkim83.github.io/
 destination: ./_site/
@@ -61,7 +61,7 @@ blog_logo: /assets/images/kroad_white.png
 logo: /assets/images/kroad_white.png
 
 # Social media links
-github_url: https://github.com/garamkim83/test-site-2/
+github_url: https://github.com/garamkim83/garamkim83.github.io/
 instagram_url: https://www.instagram.com/kroad_2020?igsh=d3R4cWNlYXI3bXk3/
 youtube_url: https://www.youtube.com/watch?v=6hWPmb7_xOA/
 
