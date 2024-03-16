@@ -9,7 +9,7 @@ garamkim:                                                     # 이름+성, 소�
   github_url_full: https://github.com/garamkim83/             # 깃허브 주소(https 포함)
   github_url: github.com/garamkim83                           # 깃허브 주소(간략)\
   bio: 한국기술교육대학교 자율주행차연구회 K-ROAD의 기술 담당 운영진입니다. # 자기소개
-  assets: assets/images/dog_with_glasses.png                  # 프로필 사진
+  assets: assets/images/id/garam_id_pic.png               # 프로필 사진
 
 
 
