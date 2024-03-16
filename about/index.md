@@ -1,5 +1,6 @@
 ---
-layout: page
+# layout: page
+layout: post
 title: About
 navigation: true
 cover: 'assets/images/cover2.jpg'
