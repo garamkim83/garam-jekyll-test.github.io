@@ -19,6 +19,7 @@ short_url: 'garamkim83.github.io/'
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 # baseurl: /
 baseurl: https://garamkim83.github.io/
+url: https://garamkim83.github.io/
 
 # Permalinks
 permalink: /:title
@@ -57,8 +58,8 @@ destination: ./_site/
 production_url:  https://garamkim83.github.io/
 source_url:  https://github.com/garamkim83/
 
-blog_logo: /assets/images/kroad_white.png
-logo: /assets/images/kroad_white.png
+blog_logo: assets/images/kroad_white.png
+logo: assets/images/kroad_white.png
 
 # Social media links
 github_url: https://github.com/garamkim83/
