@@ -7,9 +7,75 @@ garamkim:                                                     # 이름+성, 소�
   generation: 5                                               # 기수
   email: garamk83@gmail.com                                   # 자주 사용하는 이메일 주소
   github_url_full: https://github.com/garamkim83/             # 깃허브 주소(https 포함)
-  github_url: github.com/garamkim83                           # 깃허브 주소(간략)\
+  github_url: github.com/garamkim83                           # 깃허브 주소(간략)
   bio: 한국기술교육대학교 자율주행차연구회 K-ROAD의 기술 담당 운영진입니다. # 자기소개
-  assets: assets/images/id/garam_id_pic.png               # 프로필 사진
+  assets: assets/images/id/garamkim.png               # 프로필 사진
+
+# # 김민석
+# :
+#   username: 
+#   name: 
+#   generation: 5
+#   email: 
+#   github_url_full: 
+#   github_url: 
+#   bio: 
+#   assets: assets/images/id/?_id_pic.png
+
+# 유재민
+jaeminyu:
+  username: jaeminyu
+  name: 유재민
+  generation: 5
+  email: jaeminyu2356@gmail.com
+  github_url_full: https://github.com/jaeminyu2356
+  github_url: github.com/jaeminyu2356
+  bio: slam에 활용되는 zeroshot-learning을 연구하는 유재민입니다.
+  assets: assets/images/id/jaeminyu.png
+
+# # 조윤서
+# :
+#   username: 
+#   name: 
+#   generation: 5
+#   email: 
+#   github_url_full: 
+#   github_url: 
+#   bio: 
+#   assets: assets/images/id/?_id_pic.png
+
+# 최현성
+hyunsungchoi:
+  username: hyunsungchoi
+  name: 최현성
+  generation: 5
+  email: qb5773@naver.com
+  github_url_full: https://github.com/HyunSung-Choi-0716/Choi
+  github_url: github.com/HyunSung-Choi-0716/Choi
+  bio: 예, 접니다.
+  assets: assets/images/id/hyunsungchoi.png
+
+# # 한겸
+# :
+#   username: 
+#   name: 
+#   generation: 5
+#   email: 
+#   github_url_full: 
+#   github_url: 
+#   bio: 
+#   assets: assets/images/id/?_id_pic.png
+
+# 한수아
+suahan:
+  username: suahan
+  name: 한수아
+  generation: 5
+  email: soooa.han@gmail.com
+  github_url_full: https://github.com/soooa
+  github_url: github.com/soooa
+  bio: 자율주행 연구회 K-ROAD에서 인지파트를 담당하고 있는 3학년 한수아입니다. 새로운 도전에서 즐거움을 찾고, 실패는 소중한 기회로 받아들이는 개발자로 성장하고 싶습니다.
+  assets: assets/images/id/suahan.png
 
 
 
